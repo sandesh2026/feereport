@@ -87,7 +87,7 @@ public class AccountantSection extends JFrame {
 				frame.dispose();
 			}
 		});
-		GroupLayout gl_contentPane = new GroupLayout(contentPane);
+		GroupLayout gl_contentPane = new GroupLayout(contentPane)
 		gl_contentPane.setHorizontalGroup(
 			gl_contentPane.createParallelGroup(Alignment.LEADING)
 				.addGroup(gl_contentPane.createSequentialGroup()
@@ -131,4 +131,4 @@ public class AccountantSection extends JFrame {
 		contentPane.setLayout(gl_contentPane);
 	}
 
-}
+
