@@ -107,7 +107,7 @@ public class AccountantLogin extends JFrame {
 							.addGap(52)
 							.addComponent(btnBack)))
 					.addContainerGap(78, Short.MAX_VALUE))
-		);
+		);//added a max value
 		gl_contentPane.setVerticalGroup(
 			gl_contentPane.createParallelGroup(Alignment.LEADING)
 				.addGroup(gl_contentPane.createSequentialGroup()
