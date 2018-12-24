@@ -75,6 +75,7 @@ public void setFee(int fee) {
 }
 public int getPaid() {
 	return paid;
+	//Returned
 }
 public void setPaid(int paid) {
 	this.paid = paid;
