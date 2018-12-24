@@ -56,6 +56,7 @@ public void setName(String name) {
 }
 public String getEmail() {
 	return email;
+	//changed
 }
 public void setEmail(String email) {
 	this.email = email;
