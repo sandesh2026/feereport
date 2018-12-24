@@ -38,6 +38,7 @@ public class AddStudent extends JFrame {
 	/**
 	 * Launch the application.
 	 */
+	// added a new commit
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
